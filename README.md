@@ -5,5 +5,3 @@
 💡 Working on Distributed Systems, P2P Networks, and Blockchain  
 🔭 Current Projects: Blockene, P2P Chatbot with Libp2p  
 🌐 Website: [pappukumar](https://sites.google.com/view/pappukumarphdcse)
-
-![Profile views](https://sites.google.com/view/pappukumarphdcse)
