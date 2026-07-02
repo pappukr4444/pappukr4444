@@ -1,6 +1,6 @@
 # Hi, I'm Pappu Kumar 👋
 
-🎓 **Ph.D. in Computer Science** at **IIT Madras**
+### 🎓 **Ph.D. in Computer Science** at **IIT Madras**
 
 I am passionate about designing scalable and secure distributed systems. My research focuses on **Distributed Computing**, **Peer-to-Peer (P2P) Networks**, **Blockchain Systems**, and **Consensus Protocols**.
 
