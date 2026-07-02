@@ -4,7 +4,17 @@
 
 I am passionate about designing scalable and secure distributed systems. My research focuses on **Distributed Computing**, **Peer-to-Peer (P2P) Networks**, **Blockchain Systems**, and **Consensus Protocols**.
 
+## 🔬 Research Interests
 
+- 🌐 Distributed Computing
+- 🔗 Blockchain Systems & Consensus Protocols
+- 🤝 Peer-to-Peer (P2P) Networks
+- 🔐 Byzantine Fault Tolerance (BFT) & Distributed Consensus
+- 🏗️ Decentralized System Architecture
+- ⚡ Scalable, Fault-Tolerant, and High-Performance Distributed Systems
+
+
+---
 
 ## 📄 Resume
 
@@ -16,18 +26,6 @@ I am passionate about designing scalable and secure distributed systems. My rese
 - 💼 **LinkedIn:** https://linkedin.com/in/pappukr4444
 - 💻 **GitHub:** https://github.com/pappukr4444
 <!-- This is a comment - 📚 **Google Scholar:** https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID -->
-
----
-
-## 🔬 Research Interests
-
-- 🌐 Distributed Computing
-- 🔗 Blockchain Systems & Consensus Protocols
-- 🤝 Peer-to-Peer (P2P) Networks
-- ⚡ Scalable, Fault-Tolerant, and High-Performance Distributed Systems
-- 🔐 Byzantine Fault Tolerance (BFT) & Distributed Consensus
-- 🏗️ Decentralized System Architecture
-
 
 ---
 
