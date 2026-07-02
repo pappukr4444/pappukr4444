@@ -13,12 +13,9 @@ I am passionate about designing scalable and secure distributed systems. My rese
 - 🏗️ Decentralized System Architecture
 - ⚡ Scalable, Fault-Tolerant, and High-Performance Distributed Systems
 
+### 📄 Resume - **[View My Resume](https://github.com/pappukr4444/pappu_kumar_iitm_resume/blob/main/Pappu_Kumar_IITM_Resume.pdf)**
 
 ---
-
-## 📄 Resume
-
-- 📑 **[View My Resume](https://github.com/pappukr4444/pappu_kumar_iitm_resume/blob/main/Pappu_Kumar_IITM_Resume.pdf)**
 
 ## 🌐 Connect with Me
 
