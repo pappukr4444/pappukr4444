@@ -18,7 +18,7 @@ I am passionate about designing scalable and secure distributed systems. My rese
 
 ## 🌐 Connect with Me
 
-- 🌍 **Website:** https://sites.google.com/view/pappukumarcsphd
+- 🌍 **Website:** https://sites.google.com/view/pappukumarcsphd/home
 - 💼 **LinkedIn:** https://linkedin.com/in/pappukr4444
 - 💻 **GitHub:** https://github.com/pappukr4444
 <!-- This is a comment - 📚 **Google Scholar:** https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID -->
